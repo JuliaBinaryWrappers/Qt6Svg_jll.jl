@@ -1,244 +1,244 @@
 [[Qt6Svg]]
 arch = "aarch64"
-git-tree-sha1 = "dccf36de741b70c8be129ecd6c59a6792d86f8a0"
+git-tree-sha1 = "1182fe53749f25bada98a29d1c1305a1729ac38b"
 os = "macos"
 
     [[Qt6Svg.download]]
-    sha256 = "7e39c12feb7e0d99788966dcbac97f1325515748751d164e8047e867a420a698"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "363ffb01e11af5131028eb8ae8a1936826280ef9212fb8e51f508a53f0c1276b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.aarch64-apple-darwin.tar.gz"
 [[Qt6Svg]]
 arch = "x86_64"
-git-tree-sha1 = "7db6927a1f8ed3c9c62dc970f0a8a7b564620598"
+git-tree-sha1 = "e9320d9cac193297059db149799b5b08f6e63753"
 os = "macos"
 
     [[Qt6Svg.download]]
-    sha256 = "7a093ea837458dc337d202e410c76688c8785c2358bb7d020a3240183ef150fa"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.x86_64-apple-darwin.tar.gz"
-[[Qt6Svg]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7cbac65566bc577fbf0b839f7267822e92fe6416"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "4531c88e8cc9e1f5404ddb85016056db420f9e774d443fa78795ed6c0db5d1b1"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.aarch64-linux-gnu-cxx03.tar.gz"
-[[Qt6Svg]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a06ced5d2c4f6c057e12e1d96ed808e782884cb4"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "e465fdb4292971419c22009177100c0b73f1634ea1475db3116a250c2e900d99"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.aarch64-linux-gnu-cxx11.tar.gz"
-[[Qt6Svg]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1c7f8a1099bae5694bd9a6d7792ec22c2c72f3f2"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "8df9f3f05affc28995507a580785c089ace0e2ab3adea8d2f891aef82c6d100f"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.aarch64-linux-musl-cxx03.tar.gz"
-[[Qt6Svg]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5c4e4a7b7f58711243cd9f11c59de3733977a508"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "2f325b69aba728827021091189028a59bb7fff0a5f9902b65441ffb15f79fbb5"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.aarch64-linux-musl-cxx11.tar.gz"
-[[Qt6Svg]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a9115531f5bd93b062f532b7ad260693c7409e72"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "d5268e5957fb51d0b15fe348f9a0e1bca5737c6d05fd0a7600b15cf90f82f678"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[Qt6Svg]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e31943002532dfabfa29b93dbfbcbcea82636509"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "1d9f2472b13179aeb730da6d5db6f7d62db65e349c07897f3203a65be9b66824"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[Qt6Svg]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9b08e32a4edcef3c3e82c740f066b55c6c59ea2e"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "906fef3cda14faf933bc194c64dbe060f9107c2745b572d7c93d29aeef56f350"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[Qt6Svg]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c775972af8c7876b289e642d760ad3ba97e2a053"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "3e31938d785c14c30cb3fc61515584422366d4958022b631d1823788f22717ec"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "cf247c6db2c2f503ad620feea83518f9f1d197704a6272a400f82dca82eb1267"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.x86_64-apple-darwin.tar.gz"
 [[Qt6Svg]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5a1ba1e627c6f32267ed3e05be2c97011e8b044e"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "5ff2dd2deeac57f052fad31e330dc40fd0184dedef6ee049618ccc8d6b16a147"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.i686-linux-gnu-cxx03.tar.gz"
-[[Qt6Svg]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3273386bf7d16a08eb5fc8efccfda72a8474df17"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "614d9163c5efaefc0ae0fae426a77449f129d2a3f50f1259d720a4009a4c5de3"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.i686-linux-gnu-cxx11.tar.gz"
-[[Qt6Svg]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "0947ccf84a473749ac37a5da307f7f86765b2b74"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "32c02fb860bdc9a54aa9e5cbfe1f8596e4a9bafcbcdd3a8c8903593de4f4d7be"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.i686-linux-musl-cxx03.tar.gz"
-[[Qt6Svg]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "0f11e7ff02ff2e71adc8eb2946e5acd8f529f9a5"
-libc = "musl"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "9a5eee2a81fae3c5924c6e9a806fc8b1cca77289cef4af40fb1a74ea16da8194"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.i686-linux-musl-cxx11.tar.gz"
-[[Qt6Svg]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "78143516467e6942924524a61043baafdaccaa74"
+git-tree-sha1 = "08908f1c032c4889ec55953dab9d1af789e3fee7"
 os = "windows"
 
     [[Qt6Svg.download]]
-    sha256 = "a450644f6b10fcdfc61b963f3e22e20e74f05513195c13f7a3f5acae9ac1f062"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "e1af4068047e39c2b02ef208c4866ce0b28c5f74e41714371924a2413a5a5422"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.i686-w64-mingw32-cxx03.tar.gz"
 [[Qt6Svg]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba208167b025b5811a22e1a53e836ea26216d6f5"
+git-tree-sha1 = "69526f62913e064e79921e2529bca3fee35cf4e3"
 os = "windows"
 
     [[Qt6Svg.download]]
-    sha256 = "becc31a0a4fb9ef637ccd0d7192ac100a3b703f3a08656f29af40b42d695cbcc"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.i686-w64-mingw32-cxx11.tar.gz"
-[[Qt6Svg]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9ff3ce90a3b339d3212980dd494bf3cc1c7047f8"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "ea9b8b3f5886fe3a9540fc7103f48f070e7ff18b7ffff901178350b40171a3e9"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[Qt6Svg]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2ec84b6eb9f0beea2078580d463f77cda9939972"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Svg.download]]
-    sha256 = "47478aca2111d84e4df57e9e0af35f9248bcd3ca017790512e348c52031a3741"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "aec5ae191e30ada8ffbd1d78d9de5269d0654899fdab6dc642361bb5e2532ea5"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.i686-w64-mingw32-cxx11.tar.gz"
 [[Qt6Svg]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4452ce66c21a7efe4d75c8e3937d93837e4d8ea4"
-libc = "glibc"
-os = "linux"
+git-tree-sha1 = "07dabf88a301e20d81015ed70b0f469d23e44e3b"
+os = "windows"
 
     [[Qt6Svg.download]]
-    sha256 = "dc117db35335f48b879e2bc038bc347b062ee5e5e9f0d29bdfd211234892726a"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "5536196eb7476f548c262d62199028fe4b41d33ae6c019472d67163391321386"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Qt6Svg]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f5400b660b6b6673c7b571737afc85b4502728f8"
+git-tree-sha1 = "dcfe8f467e8854951e4ddc4b7d7458fff077ede6"
+os = "windows"
+
+    [[Qt6Svg.download]]
+    sha256 = "0cc91d780d9c41042c9b94af454f160204e08dab30c3763722b1d3548f4c0ec2"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.x86_64-w64-mingw32-cxx11.tar.gz"
+[[Qt6Svg]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f41dcece2a340bca8970802a20b6efdcb83829de"
 libc = "glibc"
 os = "linux"
 
     [[Qt6Svg.download]]
-    sha256 = "6ae1ccdae84c72972e1c995519bccedf1872bcef2a218a7dd9690c6594e6dd20"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "154e7d740114278b6c5717ca37a0a5b780ca1e9592070ef8410ea27439563883"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[Qt6Svg]]
-arch = "x86_64"
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c96c06f9bde2696460c5129294ad4b243141b38"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "9bc09eee3ff848a7a17a74445da5c6d4135030844964b56e90852cbd7cd3bc58"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt6Svg]]
+arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dbcdb37a8adf6df26db2e3f0a799f3235b670d85"
+git-tree-sha1 = "6d55c5e02d2db15e5fc0a24ac124357cb7dca99e"
 libc = "musl"
 os = "linux"
 
     [[Qt6Svg.download]]
-    sha256 = "aa371e792609bb9749aad0337d72aa5c10f417695717dc3eac14fffbaa02ec87"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "53d1235ee2545f7e5ae85191051fe6d65beb22ee77ffa540ef53174ead2e93fe"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.aarch64-linux-musl-cxx03.tar.gz"
 [[Qt6Svg]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "45d697d2f3dfee524c5bdc26a0b7d66e128ba823"
+git-tree-sha1 = "aba543c4e852f3079b442eaa3e501fc4e0f50966"
 libc = "musl"
 os = "linux"
 
     [[Qt6Svg.download]]
-    sha256 = "fc2a65fb2e9630690f2fae192b63290e4e5d72d7e9c21ea4d82d46909e1192f5"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "256ee0ed2af2b124c881bb6b5ccdcddb5394e90b7df10e6098933c26a09a0c9c"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Qt6Svg]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d51d7288e7d9f508ebfcd356d01a54294abb541c"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "a276e7c6fe6d303b37b67b12c79275c61f239b385e63b806869d85a6b0e2d2ee"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt6Svg]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "66088d54eb4ffabf9ea07e6bd492a5d3351f9a26"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "6cbee3d247563056ab1c21058a16b5ca361698371304d2430944b55cca624a56"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt6Svg]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "23a3df04c4df707452138ce2f26deac0bc8f0e49"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "fd4ee10135a0795ddd0b58d88617378ee8fe94f97a9189369f4333469445d643"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Qt6Svg]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3de4c68a734a33771a690daddbcad3d73bdef9ab"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "58b2ae2710d7acefefbbc103acf5a4ffc60c91382758cc571f76b76b6c2d2ce7"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Qt6Svg]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3f281f1501a2b5caa9f934f7a4cff4ddce3bf161"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "9ea448fe862eb3ec0b65a469a1be4e043848d6245083eb02b860a4aaa4ac8d13"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt6Svg]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d2b9aa7e1432d8f3648bd3500a7ef08e2d3c9e3"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "06c1dee809d79ef4892d349dec1d14fdffd9705fc1d1a06152dba84b517ec62b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt6Svg]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "30bf19068756055faf30525fc57ee7b9d719e357"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "bdd76bc4f1df96f4c61cc96b3e3cc21d31bda3e48989b3e29df7866df188cf52"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.i686-linux-musl-cxx03.tar.gz"
+[[Qt6Svg]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c89233f2db9f14631f644bd3b3409506b8fe0d8"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "a48d725c32971e28feaca4502c75a89e43d9269a294ce037a609e58da4ea28a4"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.i686-linux-musl-cxx11.tar.gz"
+[[Qt6Svg]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9718c40ec4c4c33bbc88c32ca17483d8a99bcdcd"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "747fab727394eaeb85ce38e2712744b470d53ee1fce0e1f494bc16a8ba69ccb7"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Qt6Svg]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cfcb2b4caa92715a4f6a46b40a4d7870862d6e7d"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "ba6a032b18baee2be199a7c806eb54b2cc51742780c63ee85b132095145a2b67"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Qt6Svg]]
 arch = "x86_64"
-git-tree-sha1 = "ebe71a16eecbf6245afc44a4437cdff359010d7f"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "67f11f1ce4386c809ae1032671f502b99cf18e09"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "39dea60e82be5cbc027c027ccf89001ac98a5cf4f07141ec645cdcb4a403d7b0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt6Svg]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fcc493771e4c6e0295ecfa86006abe7807e5439b"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "27b9c97a90fd713e8203872e836917c125b3b20c7c155f5e829192f7b4e9fd1b"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt6Svg]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "10a509005ab4ba00fac844215467b69eb39f0ecf"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "2d463a25a59331930953176fb87f8fd0a9af9cd06c87cc4d3caf131f21487d18"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Qt6Svg]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d612e3f1d4e3f45db2fb83fb896c65ae595f0cbd"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Svg.download]]
+    sha256 = "053ef883b378fffcf7c83b9113713a18c4c02708ecc72f9d4c64178554188479"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Qt6Svg]]
+arch = "x86_64"
+git-tree-sha1 = "705eafc0a4b99caf676d443c7ca614f703d1ad0d"
 os = "freebsd"
 
     [[Qt6Svg.download]]
-    sha256 = "ffa436d10e8daf0bbe0ef5aea78157fceddd55dc5d6af667e0490c4ed94cd17f"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.x86_64-unknown-freebsd.tar.gz"
-[[Qt6Svg]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ff51e69964c05559e6b30311d0d5ecf0bae581b9"
-os = "windows"
-
-    [[Qt6Svg.download]]
-    sha256 = "f66cbe5717ef0acfc912fe7f2bcdeb1cc39d819521f0e4b9e39838c2a8dd6581"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.x86_64-w64-mingw32-cxx03.tar.gz"
-[[Qt6Svg]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c379222cce8390b421d0eb5782cb30f2e5a3836f"
-os = "windows"
-
-    [[Qt6Svg.download]]
-    sha256 = "186187961af177b466135c99dab229d0524d536e7a40fb3083fd4765487d5ce8"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.7.1+0/Qt6Svg.v6.7.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "0f7f080e5b089d5eba6a40479b947bc32f9572c0623abf615c6c550905432b28"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Svg_jll.jl/releases/download/Qt6Svg-v6.8.2+0/Qt6Svg.v6.8.2.x86_64-unknown-freebsd.tar.gz"
